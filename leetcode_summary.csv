@@ -1,40 +1,45 @@
 Number,Name,Section
-46,Permutations,Backtracking
-47,Permutations II,Backtracking
-78,Subsets,Backtracking
 17,Letter Combinations of a Phone Number,Backtracking
 22,Generate Parentheses,Backtracking
 39,Combination Sum,Backtracking
+46,Permutations,Backtracking
+47,Permutations II,Backtracking
+78,Subsets,Backtracking
 33,Search in Rotated Sorted Array,Binary Search
 200,Number of Islands,DFS Search
-11,Container With Most Water,Double Pointers
 3,Longest Substring Without Repeating Characters,Double Pointers
-713,Subarray Product Less Than K,Double Pointers
-283,Move Zeroes,Double Pointers
-75,Sort Colors,Double Pointers
+11,Container With Most Water,Double Pointers
 15,3Sum,Double Pointers
-2218,Maximum Value of K Coins From Piles,Dynamic Programming
-377,Combination Sum IV,Dynamic Programming
-322,Coin Change,Dynamic Programming
-1049,Last Stone Weight II,Dynamic Programming
-494,Target Sum,Dynamic Programming
-416,Partition Equal Subset Sum,Dynamic Programming
+75,Sort Colors,Double Pointers
+142,Linked List Cycle II,Double Pointers
+283,Move Zeroes,Double Pointers
+287,Find the Duplicate Number,Double Pointers
+713,Subarray Product Less Than K,Double Pointers
 -1,0-1 Knap Sack Problem,Dynamic Programming
-309,Best Time to Buy and Sell Stock with Cooldown,Dynamic Programming
+5,Longest Palindromic Substring,Dynamic Programming
+64,Minimum Path Sum,Dynamic Programming
+139,Word Break,Dynamic Programming
+152,Maximum Product Subarray,Dynamic Programming
 198,House Robber,Dynamic Programming
 221,Maximal Square,Dynamic Programming
-152,Maximum Product Subarray,Dynamic Programming
-64,Minimum Path Sum,Dynamic Programming
-1143,Longest Common Subsequence,Dynamic Programming
-647,Palindromic Substrings,Dynamic Programming
-5,Longest Palindromic Substring,Dynamic Programming
 279,Perfect Squares,Dynamic Programming
+300,Longest Increasing Subsequence,Dynamic Programming
+309,Best Time to Buy and Sell Stock with Cooldown,Dynamic Programming
+322,Coin Change,Dynamic Programming
+377,Combination Sum IV,Dynamic Programming
+416,Partition Equal Subset Sum,Dynamic Programming
+494,Target Sum,Dynamic Programming
+647,Palindromic Substrings,Dynamic Programming
+1049,Last Stone Weight II,Dynamic Programming
+1143,Longest Common Subsequence,Dynamic Programming
+2218,Maximum Value of K Coins From Piles,Dynamic Programming
 128,Longest Consecutive Sequence,Hash Table
-739,Daily Temperatures,Monotonic Stack
-496,Next Greater Element I,Monotonic Stack
+56,Merge Intervals,Misc
+136,Single Number,Misc
+238,Product of Array Except Self,Misc
 239,Sliding Window Maximum,Monotonic Stack
+496,Next Greater Element I,Monotonic Stack
+739,Daily Temperatures,Monotonic Stack
 304,Range Sum Query 2D ,Prefix Sum
 370,Range Addition,Prefix Sum
 215,Kth Largest Element in an Array,Quick Selection
-238,Product of Array Except Self,Quick Selection
-56,Merge Intervals,Quick Selection

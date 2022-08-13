@@ -33,7 +33,7 @@ def readFolderIpynb():
             df = pd.concat([df, tmp], axis=0, ignore_index=True)
 
     df.Number = df.Number.astype('int32', errors='ignore')
-    df = df.sort_values(by="Section").reset_index(drop=True)
+    df = df.sort_values(by=["Section", "Number"]).reset_index(drop=True)
     return df
 
 
