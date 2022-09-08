@@ -26,7 +26,7 @@ def readSingleIpynb(nbText):
 def readFolderIpynb():
     df = pd.DataFrame()
     for file in os.listdir("./leetcode"):
-        if file.endswith('ipynb'):
+        if file.endswith('ipynb') and file != "playground.ipynb":
             # change the path here if you move the script
             nb = nbformat.read("./leetcode/" + file, as_version=3)
             tmp = readSingleIpynb(nb)
